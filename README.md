@@ -1,3 +1,3 @@
 # Asistentes curso Git
 
-Fernando Esteban Pagés
+- Fernando Esteban Pagés
